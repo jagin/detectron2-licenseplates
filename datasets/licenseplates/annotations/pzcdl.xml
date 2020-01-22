@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>pzcdl.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>803.65</xmin>
+            <ymin>527.44</ymin>
+            <xmax>1160.11</xmax>
+            <ymax>634.54</ymax>
+        </bndbox>
+    </object>
+</annotation>

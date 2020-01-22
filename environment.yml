@@ -1,0 +1,16 @@
+name: detectron2-licenseplates
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.6.5
+  - pip
+  - pytorch==1.3.1
+  - torchvision==0.4.2
+  - cython=0.29.14
+  - pillow=6.1
+  - pip:
+    - opencv-contrib-python==4.0.0.21
+    - git+https://github.com/facebookresearch/fvcore@9eba4ba21d0b9db412b6f09a011875bc1606bc4e
+    - git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+    - git+https://github.com/facebookresearch/detectron2.git@d3b9f7b47fb24a1c60cd5ec423f550c57d3e6366

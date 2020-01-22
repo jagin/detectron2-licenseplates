@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>8xjsn.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>290.41</xmin>
+            <ymin>204.59</ymin>
+            <xmax>361.11</xmax>
+            <ymax>224.13</ymax>
+        </bndbox>
+    </object>
+</annotation>

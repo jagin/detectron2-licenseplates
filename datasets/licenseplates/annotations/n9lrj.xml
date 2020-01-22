@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>n9lrj.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>345.3</xmin>
+            <ymin>239.74</ymin>
+            <xmax>529.51</xmax>
+            <ymax>291.64</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>jcq1r.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>259.14</xmin>
+            <ymin>200.32</ymin>
+            <xmax>442.6</xmax>
+            <ymax>254.45</ymax>
+        </bndbox>
+    </object>
+</annotation>

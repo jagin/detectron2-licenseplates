@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>lqyu8.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>342.15</xmin>
+            <ymin>232.8</ymin>
+            <xmax>485.31</xmax>
+            <ymax>275.5</ymax>
+        </bndbox>
+    </object>
+</annotation>

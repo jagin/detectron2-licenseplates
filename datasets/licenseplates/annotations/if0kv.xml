@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>if0kv.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>706.53</xmin>
+            <ymin>688.94</ymin>
+            <xmax>1150.44</xmax>
+            <ymax>792.5</ymax>
+        </bndbox>
+    </object>
+</annotation>

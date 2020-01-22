@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>t3j0n.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>283.25</xmin>
+            <ymin>229.8</ymin>
+            <xmax>437.05</xmax>
+            <ymax>273.08</ymax>
+        </bndbox>
+    </object>
+</annotation>

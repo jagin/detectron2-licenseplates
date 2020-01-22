@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>yaf0w.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>307.29</xmin>
+            <ymin>232.43</ymin>
+            <xmax>433.02</xmax>
+            <ymax>268.98</ymax>
+        </bndbox>
+    </object>
+</annotation>

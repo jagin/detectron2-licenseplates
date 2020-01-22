@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1iz4k.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>208.11</xmin>
+            <ymin>223.61</ymin>
+            <xmax>384.88</xmax>
+            <ymax>284.95</ymax>
+        </bndbox>
+    </object>
+</annotation>

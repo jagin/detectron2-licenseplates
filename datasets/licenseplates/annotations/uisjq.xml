@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>uisjq.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>314.83</xmin>
+            <ymin>176.58</ymin>
+            <xmax>468.63</xmax>
+            <ymax>225.12</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>icfpm.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>739.41</xmin>
+            <ymin>517.95</ymin>
+            <xmax>1221.14</xmax>
+            <ymax>656.06</ymax>
+        </bndbox>
+    </object>
+</annotation>

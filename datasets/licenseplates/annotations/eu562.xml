@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>eu562.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>240.5</xmin>
+            <ymin>178.66</ymin>
+            <xmax>376.44</xmax>
+            <ymax>221.97</ymax>
+        </bndbox>
+    </object>
+</annotation>

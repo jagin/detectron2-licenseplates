@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>zb35o.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>395.01</xmin>
+            <ymin>285.8</ymin>
+            <xmax>575.56</xmax>
+            <ymax>325.27</ymax>
+        </bndbox>
+    </object>
+</annotation>

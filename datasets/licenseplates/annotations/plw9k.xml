@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>plw9k.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>672.58</xmin>
+            <ymin>498.67</ymin>
+            <xmax>1176.09</xmax>
+            <ymax>620.15</ymax>
+        </bndbox>
+    </object>
+</annotation>

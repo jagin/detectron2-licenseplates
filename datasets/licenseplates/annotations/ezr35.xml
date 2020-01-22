@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ezr35.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>767.36</xmin>
+            <ymin>501.51</ymin>
+            <xmax>1129.07</xmax>
+            <ymax>603.44</ymax>
+        </bndbox>
+    </object>
+</annotation>

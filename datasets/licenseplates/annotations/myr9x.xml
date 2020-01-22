@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>myr9x.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1792</width>
+        <height>1312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>licenseplate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>784.47</xmin>
+            <ymin>580.19</ymin>
+            <xmax>1201.67</xmax>
+            <ymax>687.29</ymax>
+        </bndbox>
+    </object>
+</annotation>
